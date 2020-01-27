@@ -1,4 +1,5 @@
-# ADD A PROJECT TO A GITHUB FOLDER
+# Source Control Mini-Tutorial Notes
+## ADD A PROJECT TO A GITHUB FOLDER
 1.	Create a repository in github.
 2.	Go to the project file in your computer with Windows Powershell. Sample: “cd C:\Users\AsuS\source\repos\PaypalTutorialFinal”
 * Git init
@@ -18,7 +19,7 @@
 * git commit -m “comment on your changes”
 * git push origin master
 
-EDIT AND COMMIT A FILE
+## EDIT AND COMMIT A FILE
 1.	Check the status of changed files:
 * git status
 
@@ -34,7 +35,7 @@ EDIT AND COMMIT A FILE
 * git commit -m “comment on your changes”
 * git status
 
-EDIT AND COMMIT MULTIPLE FILES
+## EDIT AND COMMIT MULTIPLE FILES
 1.	Check the status of changed files:
 * git status
 
@@ -49,7 +50,7 @@ EDIT AND COMMIT MULTIPLE FILES
 * git commit -m “comment on your changes”
 * git status
 
-PUSH FILES TO THE REPOSITORY (SAVE INTO BRANCH)
+## PUSH FILES TO THE REPOSITORY (SAVE INTO BRANCH)
 
 CHECK COMMIT LOG AND UNDO CHANGES (I need to doublecheck on this part)
 1.	Check the log
@@ -60,7 +61,7 @@ CHECK COMMIT LOG AND UNDO CHANGES (I need to doublecheck on this part)
 3.	Asdsdf
 4.	asdfasd
 
-VIEW DETAILED CHANGES ON FILES AND COMMIT
+## VIEW DETAILED CHANGES ON FILES AND COMMIT
 
 1.	Check the detailed differences:
 * git diff
@@ -71,7 +72,7 @@ VIEW DETAILED CHANGES ON FILES AND COMMIT
 3.	Commit the change:
 * git commit -m “comment on your changes”
 
-DELETING FILES
+## DELETING FILES
 1.	In the command-line, navigate to your local repository.
 
 2.	Ensure you are in the default branch:
