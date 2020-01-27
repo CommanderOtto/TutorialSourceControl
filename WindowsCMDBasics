@@ -1,0 +1,9 @@
+BASICS
+Dir - List all files in directory
+cd - change directory
+mkdir - make directory
+rename - rename file
+rmdir - delete directory
+del or erase - delete files
+copy - copy files
+cd .. - move up directory
