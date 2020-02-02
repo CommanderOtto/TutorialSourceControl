@@ -7,3 +7,5 @@ rmdir - delete directory
 del or erase - delete files
 copy - copy files
 cd .. - move up directory
+type - read file in cmd
+copy con <filename.txt> - create a text file. Then CTRL + Z to save.
